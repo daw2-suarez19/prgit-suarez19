@@ -1,0 +1,2 @@
+Per compilar el programa, executa:
+	gcc mitja.c -o mitja.bin
